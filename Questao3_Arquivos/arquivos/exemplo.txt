@@ -1,3 +1,0 @@
-Arquivo de texto de exemplo para transferência via socket TCP.
-Questão 3 — Redes de Computadores
-Transferência concluída com sucesso!
