@@ -1,5 +1,7 @@
-Laboratório Socket
+# Laboratório Socket
 
-Guilherme Silveira Giacomini - 10435311  
-Alice de Oliveira Duarte  
-Pedro Roberto Fernandes Noronha
+Alice de Oliveira Duarte - 10419323
+
+Guilherme Silveira Giacomini - 10435311
+
+Pedro Roberto Fernandes Noronha - 10443434
